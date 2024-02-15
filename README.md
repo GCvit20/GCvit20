@@ -1,6 +1,6 @@
 <h1 align="center">Hi, my name is Gaston 👋</h1>
 
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **PYTHON DEVELOPER**!
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **PYTHON DEVELOPER**
 
 ---------------------------------------
 <H2>Abount me</H2>
