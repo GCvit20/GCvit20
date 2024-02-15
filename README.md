@@ -61,7 +61,7 @@
 
 <br>
 <li>
-<a href="gcvitanich20@gmail.com" target="_blank">
+<a href="mailto:gcvitanich20@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/GMAIL%3A_GASTON_CVITANICH-%23f44336?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
