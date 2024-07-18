@@ -1,13 +1,13 @@
 <h1 align="center">Hi, my name is Gaston Cvitanich 👋</h1>
 
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **PYTHON DEVELOPER**
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **JAVA DEVELOPER**
 
 ---------------------------------------
 <H2>Abount me</H2>
 <br>
 
-- I am a passionate Self-taught Back-end developer
-- Currently learning Data Analytics by Self
+- I am a passionate Self-taught Back-end developer.
+- Currently learning Java by Self.
 - I’m currently open for a new job opportunity.
 
 <br>
@@ -20,14 +20,17 @@
 
 - **Back-End Development**:
     
+    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
     ![C](https://img.shields.io/badge/-blue?style=for-the-badge&logo=C&logoColor=white)
     ![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=C%23&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
     
 - **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 - **Framework and Tools**:
@@ -36,6 +39,13 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Pandas](https://img.shields.io/badge/PANDAS-blue?style=for-the-badge&logo=pandas&logoColor=white)
     ![Numpy](https://img.shields.io/badge/NUMPY-blue?style=for-the-badge&logo=NUMPY&logoColor=white)
+    ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+    ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
+    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+    ![SQL]( https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+    ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+
     
 </p>
 
